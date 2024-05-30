@@ -22,21 +22,21 @@ p {
 
 .logo {
     font-size: 24px;
-    color: #F9FAF8;
+    color: #f9faf8;
 }
 
 .text1 {
     font-size: 48px;
-    color: #F9FAF8;
+    color: #f9faf8;
     font-weight: bolder;
 }
 
 .text2 {
-    color: #F9FAF8;
+    color: #f9faf8;
     margin-bottom: 10px;
 }
 
-.button1{
+.button1 {
     cursor: pointer;
     padding: 8px 16px;
     border-radius: 8px;
@@ -105,7 +105,7 @@ a {
     margin-bottom: 52px;
 }
 
-.header2{
+.header2 {
     padding: 28px;
     text-align: center;
     font-size: 36px;
@@ -115,15 +115,15 @@ a {
 .boxtwo2 {
     display: flex;
     justify-content: center;
-    align-items: center;   
+    align-items: center;
 }
 
 .text3 {
-  width: 100px;
-  margin-right: 28px;
-  margin-left: 28px;
-  font-size: 10px;
-  text-align: center;
+    width: 100px;
+    margin-right: 28px;
+    margin-left: 28px;
+    font-size: 10px;
+    text-align: center;
 }
 
 .boxthree {
@@ -139,7 +139,7 @@ a {
     font-style: italic;
 }
 
-.text5{
+.text5 {
     text-align: right;
     margin: auto;
     width: 600px;
@@ -162,27 +162,27 @@ a {
     gap: 64px;
 }
 
-.boxfive1{
+.boxfive1 {
     display: flex;
     flex-direction: column;
     justify-content: start;
 }
 
-.text6{
-    color: #F9FAF8;
+.text6 {
+    color: #f9faf8;
     font-weight: bold;
 }
 
-.text7{ 
-    color: #F9FAF8;
+.text7 {
+    color: #f9faf8;
 }
 
-.button2{
+.button2 {
     cursor: pointer;
     padding: 8px 16px;
     border-radius: 8px;
     background: #3882f6;
-    border: 1px solid #F9FAF8;
+    border: 1px solid #f9faf8;
     color: white;
     width: 100px;
 }
